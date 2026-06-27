@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Messenger",
+  "description": "A production-ready full-stack WhatsApp clone featuring secure offline-first Room data, timed status stories, custom calling loops, and a Node/Socket.IO backend.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
